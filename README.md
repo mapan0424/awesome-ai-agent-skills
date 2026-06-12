@@ -139,6 +139,7 @@ Skills for web development and API integration.
 | [popular-web-designs](https://github.com/anomalyco/hermes-agent/tree/main/skills/popular-web-designs) | 54 real design systems as HTML/CSS | Hermes | ⭐⭐⭐⭐⭐ | Built-in |
 | [html5-game](https://github.com/anomalyco/hermes-agent/tree/main/skills/html5-game-development) | HTML5 browser games (2048, Chess, etc.) | Hermes | ⭐⭐⭐⭐ | Built-in |
 | [api-design](https://github.com/anthropics/skills/tree/main/skills/api-design) | RESTful API best practices | Claude | ⭐⭐⭐⭐ | `claude skill add` |
+| [xquik-x-data](skills/xquik-x-data) | X data research, monitors, webhooks, and MCP tasks with Xquik | Universal | New | Copy SKILL.md |
 
 ### 🔐 Security & DevOps
 
