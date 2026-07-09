@@ -179,6 +179,7 @@ Skills for daily productivity and automation.
 
 | Skill | Description | Agent | Rating | Install |
 |-------|-------------|-------|--------|---------|
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | Universal | ⭐⭐⭐⭐ | Copy SKILL.md |
 | [obsidian](https://github.com/anomalyco/hermes-agent/tree/main/skills/obsidian) | Read/search/create Obsidian notes | Hermes | ⭐⭐⭐⭐⭐ | Built-in |
 | [notion](https://github.com/anomalyco/hermes-agent/tree/main/skills/notion) | Notion API: pages, databases, blocks | Hermes | ⭐⭐⭐⭐ | Built-in |
 | [google-workspace](https://github.com/anomalyco/hermes-agent/tree/main/skills/google-workspace) | Gmail, Calendar, Drive integration | Hermes | ⭐⭐⭐⭐⭐ | Built-in |
