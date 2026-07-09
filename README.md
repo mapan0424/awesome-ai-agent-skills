@@ -179,6 +179,7 @@ Skills for daily productivity and automation.
 
 | Skill | Description | Agent | Rating | Install |
 |-------|-------------|-------|--------|---------|
+| [linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) | Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests. | Universal | ⭐⭐⭐⭐ | Copy SKILL.md |
 | [obsidian](https://github.com/anomalyco/hermes-agent/tree/main/skills/obsidian) | Read/search/create Obsidian notes | Hermes | ⭐⭐⭐⭐⭐ | Built-in |
 | [notion](https://github.com/anomalyco/hermes-agent/tree/main/skills/notion) | Notion API: pages, databases, blocks | Hermes | ⭐⭐⭐⭐ | Built-in |
 | [google-workspace](https://github.com/anomalyco/hermes-agent/tree/main/skills/google-workspace) | Gmail, Calendar, Drive integration | Hermes | ⭐⭐⭐⭐⭐ | Built-in |
